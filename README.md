@@ -1,4 +1,4 @@
-# Sun-in-Noita
+# Sun in Noita
 A small Noita mod to add Sun to the game, made for a few friends.
 
 Extract the folder, and put it into /Noita/mods
